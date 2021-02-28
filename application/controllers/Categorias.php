@@ -25,6 +25,6 @@ class Categorias extends CI_Controller {
 
     public function novo()
 	{
-		$this->load->view('novo_categoria');
+		$this->load->view('nova_categoria');
 	}
 }
